@@ -40,6 +40,13 @@
   - vSphere NSXの構築・運用経験
 - [FreeNAS](http://freenas.org)の構築・運用経験
 - チームにWikiの文化を定着
+- Windows Serverの構築経験
+  - 2008 R2/ 2012 R2/ 2016
+  - 初期構築
+  - トラブル対応など
+- Linuxの業務利用経験
+  - CentOS6/ CentOS7
+  - 内部向けサーバで、Dockerを使ったアプリケーション管理
 
 #### 趣味
 
