@@ -56,6 +56,9 @@
   - サーバ: vSphere ESXi 6.7 on PowerEdge R610
 - Docker
   - Immutable Infrastructureを目指して勉強中
+  - 自分用Wiki/RedmineをNginx含めて全てコンテナで稼働
+  - Docker-Compose
+  - Rancher(勉強中)
 
 ## 強み
 
