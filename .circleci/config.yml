@@ -1,0 +1,14 @@
+version: 2
+jobs:
+  build:
+    steps:
+      - checkout
+      - run:
+        name: install-markdwon-pdf
+        command: npm install markdown-pdf
+      - run:
+        name: generate
+        command: markdown-pdf -o CV.pdf ./README.md
+      - store_artifacts:
+        path: ./CV.pdf
+        destination: CV.pdf
