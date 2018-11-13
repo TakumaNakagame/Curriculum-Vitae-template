@@ -5,7 +5,7 @@ jobs:
       - image: circleci/node:6.10.3
     steps:
       - checkout
-      - run: sudo npm install markdown-pdf
+      - run: sudo npm install -g markdown-pdf
       - run: markdown-pdf -o CV.pdf ./README.md
       - store_artifacts:
           path: ./CV.pdf
