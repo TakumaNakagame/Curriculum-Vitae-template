@@ -94,6 +94,10 @@
   - **コミュニティ**: エンジニアの登壇を応援する会
   - **概要**: FreeNAS本の執筆を経て、技術書執筆に感じるハードルと、そのハードルの実態について話しました。
   - **スライド**: [アウトプットをほとんどしないペンギンが本を書いた話 - Speaker Deck](https://speakerdeck.com/takumanakagame/autopututowohotondosinaipengingaben-woshu-itahua)
+- 18/11/28 [「CI/CDが回らない？なぜ？」クラウド基盤でのCI/CDの回し方・運用の最適化 - connpass](https://fujitsufjct.connpass.com/event/107305/)
+  - **コミュニティ**: ニフクラエンジニアミートアップ
+  - **概要**: インフラエンジニアとしてのCI/CD、そしてインフラエンジニアの将来についてエモいお話をしました
+  - **スライド**: [インフラエンジニアのためのCI/CD](https://speakerdeck.com/takumanakagame/cd)
 
 ### オンライン
 
